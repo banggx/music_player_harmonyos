@@ -1,0 +1,34 @@
+{
+  "routerMap": [
+    {
+      "name": "SingerDetail",
+      "pageSourceFile": "src/main/ets/pages/SingerDetail.ets",
+      "buildFunction": "SingerDetailBuilder"
+    },
+    {
+      "name": "Player",
+      "pageSourceFile": "src/main/ets/pages/Player.ets",
+      "buildFunction": "PlayerBuilder"
+    },
+    {
+      "name": "Playlist",
+      "pageSourceFile": "src/main/ets/pages/Playlist.ets",
+      "buildFunction": "PlaylistBuilder"
+    },
+    {
+      "name": "AlbumDetail",
+      "pageSourceFile": "src/main/ets/pages/AlbumDetail.ets",
+      "buildFunction": "albumDetailBuilder"
+    },
+    {
+      "name": "Search",
+      "pageSourceFile": "src/main/ets/pages/Search.ets",
+      "buildFunction": "SearchPageBuilder"
+    },
+    {
+      "name": "PhoneLogin",
+      "pageSourceFile": "src/main/ets/pages/PhoneLogin.ets",
+      "buildFunction": "phoneLoginBuilder"
+    }
+  ]
+}

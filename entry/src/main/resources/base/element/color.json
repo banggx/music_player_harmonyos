@@ -1,0 +1,104 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_lv1",
+      "value": "#222628"
+    },
+    {
+      "name": "text_lv2",
+      "value": "#76777A"
+    },
+    {
+      "name": "text_lv3",
+      "value": "#FFA8A8AB"
+    },
+    {
+      "name": "bg_cyan",
+      "value": "#E7F9FF"
+    },
+    {
+      "name": "cyan",
+      "value": "#C5DFFF"
+    },
+    {
+      "name": "purple",
+      "value": "#8613B0"
+    },
+    {
+      "name": "purple_10",
+      "value": "#FFF7F6FF"
+    },
+    {
+      "name": "orange",
+      "value": "#F07530"
+    },
+    {
+      "name": "orange_light",
+      "value": "#FFEFCEC4"
+    },
+    {
+      "name": "red",
+      "value": "#FFE02E74"
+    },
+    {
+      "name": "yellow",
+      "value": "#FFF5B643"
+    },
+    {
+      "name": "green",
+      "value": "#FF39CD3C"
+    },
+    {
+      "name": "green_light",
+      "value": "#00DEC8"
+    },
+    {
+      "name": "blue_light",
+      "value": "#6EC7FF"
+    },
+    {
+      "name": "blue",
+      "value": "#FF1B82C1"
+    },
+    {
+      "name": "white_10",
+      "value": "#19FFFFFF"
+    },
+    {
+      "name": "white_30",
+      "value": "#4DFFFFFF"
+    },
+    {
+      "name": "white_50",
+      "value": "#80FFFFFF"
+    },
+    {
+      "name": "white_80",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "black_10",
+      "value": "#1A000000"
+    },
+    {
+      "name": "black_80",
+      "value": "#CB000000"
+    },
+    {
+      "name": "sky_80",
+      "value": "#EFF2FE"
+    },
+    {
+      "name": "blue_10",
+      "value": "#FFF2FDFB"
+    }
+  ]
+}
